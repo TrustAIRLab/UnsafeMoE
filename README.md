@@ -1,4 +1,4 @@
-# UnsafeMoE (F_SOUR)
+# UnsafeMoE (F-SOUR)
 
 This repository is for the paper ["Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs"](https://arxiv.org/abs/2602.08621). 
 It contains all details for reproduce our proposed **F-SOUR** method.
